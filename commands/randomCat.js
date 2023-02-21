@@ -16,5 +16,4 @@ module.exports = {
                 interaction.editReply({ files: [{ attachment: file, name: 'randomcat.png' }] });
             }
         },
-
 };
